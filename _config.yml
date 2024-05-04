@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xin's Website"
+title                    : "Xin Ma's Homepage"
 title_separator          : "-"
 name                     : &name "Xin Ma"
 description              : &description "personal description"
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : 'https://www.linkedin.com/in/xin-ma-4383a417a/'
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
