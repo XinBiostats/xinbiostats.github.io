@@ -21,9 +21,9 @@ repository               : "XinBiostats/XinBiostats.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Xin Ma"
-  pronouns         : # example: "he/his"  
+  avatar           : "profile.jpg"
+  name             : "Xin Ma (马鑫)"
+  pronouns         : "he/his"  
   bio              : "Ph.D. Student in Biostatistics at University of Florida"
   location         : "Gainesville, FL, US"
   employer         : "University of Florida"
