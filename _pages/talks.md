@@ -7,10 +7,10 @@ author_profile: true
 
 Oral Presentations
 ------
-Apr. 2024, 2024 College of Public Health and Health Professions (PHHP) Research Days, Gainesville, FL.<br>
+Apr. 2024, College of Public Health and Health Professions (PHHP) Research Days, Gainesville, FL.<br>
 *Deep5hmC: Predicting genome-wide 5-Hydroxymethylcytosine (5hmC) landscape via multimodal deep learning model* <br>
 
-March 2024, 2024 Annual ASA Florida Chapter Meeting, Tallahassee, FL.<br>
+March 2024, Annual ASA Florida Chapter Meeting, Tallahassee, FL.<br>
 *Deep5hmC: Predicting genome-wide 5-Hydroxymethylcytosine (5hmC) landscape via multimodal deep learning model* <br>
 
 Oct. 2023, Mark C. K. Yang Event, Gainesville, FL.<br>
