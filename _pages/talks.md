@@ -5,8 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-Talks
+Oral Presentations
 ------
 
-Posters
+July 2023, International Conference on Intelligent Biology and Medicine (ICIBM). *Integrated Spatial Multi-omics Analysis Based on MALDI Data* (Tampa, FL).
+
+Poster Presentations
 ------
