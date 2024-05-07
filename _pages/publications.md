@@ -7,22 +7,22 @@ author_profile: true
 
 1. **Ma, X.**, Thela, S. R., Zhao, F., Yao, B., Wen, Z., Jin, P., Zhao, J., & Chen, L.
 (2024). Deep5hmc: Predicting genome-wide 5-hydroxymethylcytosine
-landscape via a multimodal deep learning model. bioRxiv. https://doi.
-org/10.1101/2024.03.04.583444<br>
+landscape via a multimodal deep learning model. bioRxiv. <https://doi.
+org/10.1101/2024.03.04.583444><br>
 
 1. Zhao, F., Ma, X., Yao, B., & Chen, L. (2024). Scada: A novel statistical method
 for differential analysis of single-cell chromatin accessibility sequencing
-data. bioRxiv. https://doi.org/10.1101/2024.01.21.576570<br>
+data. bioRxiv. <https://doi.org/10.1101/2024.01.21.576570>
 
 1. Clarke, H. A., Ma, X., Shedlock, C. J., Medina, T., Hawkinson, T. R., Wu, L.,
 Ribas, R. A., Keohane, S., Ravi, S., Bizon, J., Burke, S., Abisambra,
 J. F., Merritt, M., Prentice, B., Kooi, C. W. V., Gentry, M. S., Chen, L.,
 & Sun, R. C. (2023). Spatial metabolome lipidome and glycome from
-a single brain section. bioRxiv. https://doi.org/10.1101/2023.07.22.
-550155<br>
+a single brain section. bioRxiv. <https://doi.org/10.1101/2023.07.22.
+550155>
    
 1. Ma, X., Shedlock, C. J., Medina, T., Ribas, R. A., Clarke, H. A., Hawkin-
 son, T. R., Dande, P. K., Wu, L., Burke, S. N., Merritt, M. E., Kooi,
 C. W. V., Gentry, M. S., Yadav, N. N., Chen, L., & Sun, R. C. (2023).
 Metavision3d: Automated framework for the generation of spatial metabolome
-atlas in 3d. bioRxiv. https://doi.org/10.1101/2023.11.27.568931<br>
+atlas in 3d. bioRxiv. <https://doi.org/10.1101/2023.11.27.568931><br>
