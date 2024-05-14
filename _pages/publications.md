@@ -13,7 +13,7 @@ landscape via a multimodal deep learning model. bioRxiv. <https://doi.org/10.110
 for differential analysis of single-cell chromatin accessibility sequencing
 data. bioRxiv. <https://doi.org/10.1101/2024.01.21.576570>
 
-1. Clarke, H. A., **Ma, X.**, Shedlock, C. J., Medina, T., Hawkinson, T. R., Wu, L.,
+1. Clarke, H. A., **Ma, X.** (co-first author), Shedlock, C. J., Medina, T., Hawkinson, T. R., Wu, L.,
 Ribas, R. A., Keohane, S., Ravi, S., Bizon, J., Burke, S., Abisambra,
 J. F., Merritt, M., Prentice, B., Kooi, C. W. V., Gentry, M. S., Chen, L.,
 & Sun, R. C. (2023). Spatial metabolome lipidome and glycome from
