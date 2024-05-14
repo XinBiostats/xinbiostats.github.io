@@ -23,6 +23,7 @@ July 2023, International Conference on Intelligent Biology and Medicine (ICIBM),
 Poster Presentations
 ------
 March 2024, Midsouth Computation Biology & Bioinformatics Society (MCBIOS), Atlanta, GA.<br>
+**MCBIOS 2024 Travel Fellowship**
 
 Nov. 2023, Florida Genetics Symposium, Gainesville, FL.<br>
 
