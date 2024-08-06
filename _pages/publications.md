@@ -9,9 +9,7 @@ author_profile: true
 (2024). Deep5hmc: Predicting genome-wide 5-hydroxymethylcytosine
 landscape via a multimodal deep learning model. bioRxiv. <https://doi.org/10.1101/2024.03.04.583444>
 
-1. Zhao, F., **Ma, X.**, Yao, B., & Chen, L. (2024). Scada: A novel statistical method
-for differential analysis of single-cell chromatin accessibility sequencing
-data. bioRxiv. <https://doi.org/10.1101/2024.01.21.576570>
+1. Zhao F, **Ma, X.**, Yao B, Lu Q, Chen L (2024) scaDA: A novel statistical method for differential analysis of single-cell chromatin accessibility sequencing data. PLoS Comput Biol 20(8): e1011854. https://doi.org/10.1371/journal.pcbi.1011854
 
 1. Clarke, H. A., **Ma, X.** (co-first author), Shedlock, C. J., Medina, T., Hawkinson, T. R., Wu, L.,
 Ribas, R. A., Keohane, S., Ravi, S., Bizon, J., Burke, S., Abisambra,
