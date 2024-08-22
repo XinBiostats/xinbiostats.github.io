@@ -13,7 +13,7 @@ My research interests revolve around leveraging statistical learning and deep le
 
 News
 ------
-[08/21/2024] _"Deep5hmc: Predicting genome-wide 5-hydroxymethylcytosine landscape via a multimodal deep learning model"_ is published on **Bioinformatics**.
+[08/21/2024] _"Deep5hmC: Predicting genome-wide 5-hydroxymethylcytosine landscape via a multimodal deep learning model"_ is published on **Bioinformatics**.
 
 [05/13/2024] Xin won the MCBIOS 2024 Travel Fellowship.
 
