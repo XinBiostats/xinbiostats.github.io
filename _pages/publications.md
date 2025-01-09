@@ -7,7 +7,7 @@ author_profile: true
 
 1. **Ma, X.**, Thela, S. R., Zhao, F., Yao, B., Wen, Z., Jin, P., Zhao, J., & Chen, L.
 (2024). Deep5hmc: Predicting genome-wide 5-hydroxymethylcytosine
-landscape via a multimodal deep learning model. bioRxiv. <https://doi.org/10.1101/2024.03.04.583444>
+landscape via a multimodal deep learning model. Bioinformatics. <https://doi.org/10.1093/bioinformatics/btae528>
 
 1. Zhao F, **Ma, X.**, Yao B, Lu Q, Chen L (2024) scaDA: A novel statistical method for differential analysis of single-cell chromatin accessibility sequencing data. PLoS Comput Biol 20(8): e1011854. https://doi.org/10.1371/journal.pcbi.1011854
 
