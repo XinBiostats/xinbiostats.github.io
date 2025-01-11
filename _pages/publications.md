@@ -16,9 +16,11 @@ Ribas, R. A., Keohane, S., Ravi, S., Bizon, J., Burke, S., Abisambra,
 J. F., Merritt, M., Prentice, B., Kooi, C. W. V., Gentry, M. S., Chen, L.,
 & Sun, R. C. (2023). Spatial metabolome lipidome and glycome from
 a single brain section. bioRxiv. <https://doi.org/10.1101/2023.07.22.550155>
+(Submitted to Nature Communication)
    
 1. **Ma, X.**, Shedlock, C. J., Medina, T., Ribas, R. A., Clarke, H. A., Hawkin-
 son, T. R., Dande, P. K., Wu, L., Burke, S. N., Merritt, M. E., Kooi,
 C. W. V., Gentry, M. S., Yadav, N. N., Chen, L., & Sun, R. C. (2023).
 Metavision3d: Automated framework for the generation of spatial metabolome
 atlas in 3d. bioRxiv. <https://doi.org/10.1101/2023.11.27.568931>
+(Accepted in principle by Nature Metabolism)
