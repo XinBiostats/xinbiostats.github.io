@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+{$\dagger$}{†} = co-first author
 
 1. **Ma, X.**, Thela, S. R., Zhao, F., Yao, B., Wen, Z., Jin, P., Zhao, J., & Chen, L.
 (2024). Deep5hmc: Predicting genome-wide 5-hydroxymethylcytosine
