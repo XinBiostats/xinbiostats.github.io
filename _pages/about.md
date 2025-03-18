@@ -13,11 +13,13 @@ My research interests revolve around leveraging statistical learning and deep le
 
 News
 ------
+[03/18/2025] _"AI-driven Framework to Map the Brain Metabolome in 3D"_ is published in **Nature Metabolism** https://doi.org/10.1038/s42255-025-01242-9.
+
 [03/11/2025] _"Integrated mapping of the brain spatial metabolome, lipidome, and glycome"_ is accepted in principle by **Nature Communications**.
 
 [01/08/2025] _"AI-driven Framework to Map the Brain Metabolome in 3D"_ is accepted in principle by **Nature Metabolism**.
 
-[08/28/2024] _"Deep5hmC: Predicting genome-wide 5-hydroxymethylcytosine landscape via a multimodal deep learning model"_ is published in **Bioinformatics**.
+[08/28/2024] _"Deep5hmC: Predicting genome-wide 5-hydroxymethylcytosine landscape via a multimodal deep learning model"_ is published in **Bioinformatics** https://doi.org/10.1093/bioinformatics/btae528.
 
 [05/13/2024] Xin won the MCBIOS 2024 Travel Fellowship.
 
