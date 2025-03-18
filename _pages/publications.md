@@ -27,10 +27,3 @@ J. F., Merritt, M., Prentice, B., Kooi, C. W. V., Gentry, M. S., Chen, L.,
 & Sun, R. C. (2023). Spatial metabolome lipidome and glycome from
 a single brain section. bioRxiv. <https://doi.org/10.1101/2023.07.22.550155>
 (Accepted in principle by **Nature Communications**)
-   
-1. **Ma, X.**, Shedlock, C. J., Medina, T., Ribas, R. A., Clarke, H. A., Hawkin-
-son, T. R., Dande, P. K., Golamari, H.K.R, Wu, L., Ziani B.E., Burke, S. N., Merritt, M. E., Kooi,
-C. W. V., Gentry, M. S., Yadav, N. N., Chen, L., & Sun, R. C. (2025).
-AI-driven framework to map the brain metabolome in three dimensions. **Nature Metabolism** <https://doi.org/10.1038/s42255-025-01242-9>
-
-
