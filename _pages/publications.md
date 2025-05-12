@@ -7,6 +7,8 @@ author_profile: true
 † = co-first author
 
 # 2025
+1.Clarke, H.A., \textbf{Ma, X.}\textsuperscript{$\dagger$}, Shedlock, C.J.\textsuperscript{$\dagger$} et al. Spatial mapping of the brain metabolome lipidome and glycome. Nat Commun 16, 4373 (2025). \href{https://doi.org/10.1038/s41467-025-59487-7}{https://doi.org/10.1038/s41467-025-59487-7}
+
 1. **Ma, X.†**, Shedlock, C. J.†, Medina, T.†, Ribas, R. A.†, Clarke, H. A., Hawkinson, T. R., Dande, P. K., Golamari, H.K.R, Wu, L., Ziani B.E., Burke, S. N., Merritt, M. E., Kooi,
 C. W. V., Gentry, M. S., Yadav, N. N., Chen, L., & Sun, R. C. (2025).
 AI-driven framework to map the brain metabolome in three dimensions. **Nature Metabolism** <https://doi.org/10.1038/s42255-025-01242-9>
