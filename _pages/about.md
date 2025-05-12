@@ -15,6 +15,8 @@ News
 ------
 [05/12/2025] _"Spatial mapping of the brain metabolome lipidome and glycome"_ is published in **Nature Communications** <https://doi.org/10.1038/s41467-025-59487-7>
 
+[03/23/2025] Xin presented “A Semi-Supervised Multi-Modal Model for Domain Detection in Spatial Transcriptomics” at the ENAR 2025 Spring Meeting in New Orleans, LA.
+
 [03/18/2025] _"AI-driven Framework to Map the Brain Metabolome in 3D"_ is published in **Nature Metabolism** <https://doi.org/10.1038/s42255-025-01242-9>.
 
 [03/11/2025] _"Integrated mapping of the brain spatial metabolome, lipidome, and glycome"_ is accepted in principle by **Nature Communications**.
