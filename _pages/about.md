@@ -29,6 +29,12 @@ News
 
 [05/13/2024] Xin won the MCBIOS 2024 Travel Fellowship.
 
+[03/29/2024] Xin presented "Deep5hmC: Predicting genome-wide 5-hydroxymethylcytosine landscape via a multimodal deep learning model" at ASA Florida Chapter 2024 in Tallahassee, FL.
+
+[03/22/2024] Xin presented "Deep5hmC: Predicting genome-wide 5-hydroxymethylcytosine landscape via a multimodal deep learning model" at MCBIOS 2024 in Atlanta, GA.
+
 [11/15/2023] Xin won the Mark C. K. Yang Student Presentation Award.
 
 [08/21/2023] Xin passed the written qualifying exam.
+
+[07/16/2023] Xin presented "Spatial Metabolome Lipidome Glycome Analyses from a Single Tissue Section" at ICIBM 2023 in Tampa, FL.
