@@ -7,6 +7,8 @@ author_profile: true
 † = co-first author
 
 # 2025
+1. **Ma, X.**, Jin, W., Lu, Q., Sun, RC., Chen, L. Reference-Informed Spatial Domain Detection Using Weak Supervision for Spatial Transcriptomics. (Under review) <https://doi.org/10.1101/2025.09.11.675689>
+   
 1. Clarke, H.A.†, **Ma, X.†**, Shedlock, C.J.† et al. Spatial mapping of the brain metabolome lipidome and glycome. Nat Commun 16, 4373 (2025). <https://doi.org/10.1038/s41467-025-59487-7>
 
 1. **Ma, X.†**, Shedlock, C.J.†, Medina, T.† et al. (2025) AI-driven framework to map the brain metabolome in three dimensions. Nature Metabolism. <https://doi.org/10.1038/s42255-025-01242-9>
