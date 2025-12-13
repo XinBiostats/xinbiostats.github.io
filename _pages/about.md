@@ -13,7 +13,8 @@ My research interests revolve around leveraging statistical learning and deep le
 
 News
 ------
-[12/12/2025] I'm excited to share that I will be joining Bristol Myers Squibb as a summer intern (2026) in San Diego! 
+[12/12/2025] I'm excited to share that I will be joining Bristol Myers Squibb as a summer intern (2026) in San Diego, CA!
+
 [05/12/2025] _"Spatial mapping of the brain metabolome lipidome and glycome"_ is published in **Nature Communications** <https://doi.org/10.1038/s41467-025-59487-7>
 
 [03/23/2025] I presented “A Semi-Supervised Multi-Modal Model for Domain Detection in Spatial Transcriptomics” at the ENAR 2025 Spring Meeting in New Orleans, LA.
