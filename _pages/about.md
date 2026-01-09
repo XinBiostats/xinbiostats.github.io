@@ -13,7 +13,7 @@ My research interests revolve around leveraging statistical learning and deep le
 
 News
 ------
-[12/12/2025] I'm excited to share that I will be joining Bristol Myers Squibb as a summer intern (2026) in San Diego, CA!
+[01/09/2026] I'm excited to share that I will be joining Eli Lilly as a summer intern (2026) in Indianapolis, Indiana!
 
 [05/12/2025] _"Spatial mapping of the brain metabolome lipidome and glycome"_ is published in **Nature Communications** <https://doi.org/10.1038/s41467-025-59487-7>
 
