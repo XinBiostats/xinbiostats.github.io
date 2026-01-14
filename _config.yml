@@ -21,7 +21,7 @@ repository               : "XinBiostats/XinBiostats.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile3.jpg"
+  avatar           : "Profile3.png"
   name             : "Xin Ma (马鑫)"
   pronouns         : "he/his"  
   bio              : "Ph.D. Student in Biostatistics at University of Florida"
