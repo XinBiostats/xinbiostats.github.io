@@ -41,7 +41,7 @@ author_profile: true
   <li>
     Rodriguez-Palma, E., Gomez, K., Calderon-Rivera, A., et al., <strong>Ma, X.</strong>, et al.
     <em>A peptidomimetic inhibitor of moesin alleviates chronic pain by suppressing NaV1.7 and NaV1.8 channels</em>.
-    <em>Science Translational Medicine</em> (under review).
+    <em>Science Translational Medicine</em> (under revision).
   </li>
   <li>
     Ribas, R., Tang, Q., Caffee, S., et al., <strong>Ma, X.</strong>, Chen, L., Sun, R., et al.
