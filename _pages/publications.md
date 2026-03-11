@@ -39,6 +39,11 @@ author_profile: true
 <h2>Manuscripts Under Revision</h2>
 <ol>
   <li>
+    Rodriguez-Palma, E., Gomez, K., Calderon-Rivera, A., et al., <strong>Ma, X.</strong>, et al.
+    <em>A peptidomimetic inhibitor of moesin alleviates chronic pain by suppressing NaV1.7 and NaV1.8 channels</em>.
+    <em>Science Translational Medicine</em> (under review).
+  </li>
+  <li>
     Ribas, R., Tang, Q., Caffee, S., et al., <strong>Ma, X.</strong>, Chen, L., Sun, R., et al.
     <em>Mass Spectrometry-based Spatial Imaging of the Cochlea</em>.
     <em>Journal of the American Society for Mass Spectrometry</em> (under revision).
@@ -62,11 +67,6 @@ author_profile: true
 
 <h2>Manuscripts Under Review</h2>
 <ol>
-  <li>
-    Rodriguez-Palma, E., Gomez, K., Calderon-Rivera, A., et al., <strong>Ma, X.</strong>, et al.
-    <em>A peptidomimetic inhibitor of moesin alleviates chronic pain by suppressing NaV1.7 and NaV1.8 channels</em>.
-    <em>Science Translational Medicine</em> (under review).
-  </li>
   <li>
     Jin, W., Zhao, F., <strong>Ma, X.</strong>, et al.
     <em>DeepCNet: An interpretable deep learning model for inferring cell type-specific promoter-enhancer interactions from single-cell multiome data</em>.
