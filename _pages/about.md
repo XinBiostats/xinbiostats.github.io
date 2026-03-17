@@ -13,13 +13,15 @@ My research interests revolve around leveraging statistical learning and deep le
 
 🚀  News
 ------
-🗣️ [03/16/2026] I presented "Reference-Informed Spatial Domain Detection Using Weak Supervision for Spatial Transcriptomics" and served as session chair for "Machine Learning and Causal Inference for Clinical and Genomic Studies"at the ENAR 2026 Spring Meeting in Indianapolis, IN.
+🎤 [03/16/2026] I presented "Reference-Informed Spatial Domain Detection Using Weak Supervision for Spatial Transcriptomics" and served as session chair for "Machine Learning and Causal Inference for Clinical and Genomic Studies"at the ENAR 2026 Spring Meeting in Indianapolis, IN.
+
+📰 [02/04/2026] Honorned to be featured by University of Florida PHHP and to share my story! 🔗<https://phhp.ufl.edu/2026/02/04/meet-the-students-of-phhp-xin-ma-ph-d-in-biostatistics/>
 
 💼 [01/09/2026] I'm excited to share that I will be joining **Eli Lilly and Company** as an AI Drug Discovery summer intern (2026) in Indianapolis, Indiana!
 
 📄 [05/12/2025] _"Spatial mapping of the brain metabolome lipidome and glycome"_ is published in **Nature Communications** 🔗<https://doi.org/10.1038/s41467-025-59487-7>
 
-🗣️ [03/23/2025] I presented “A Semi-Supervised Multi-Modal Model for Domain Detection in Spatial Transcriptomics” at the ENAR 2025 Spring Meeting in New Orleans, LA.
+🎤  [03/23/2025] I presented “A Semi-Supervised Multi-Modal Model for Domain Detection in Spatial Transcriptomics” at the ENAR 2025 Spring Meeting in New Orleans, LA.
 
 📄 [03/18/2025] _"AI-driven Framework to Map the Brain Metabolome in 3D"_ is published in **Nature Metabolism** 🔗<https://doi.org/10.1038/s42255-025-01242-9>.
 
@@ -29,12 +31,12 @@ My research interests revolve around leveraging statistical learning and deep le
 
 🏅 [05/13/2024] I won the MCBIOS 2024 Travel Fellowship.
 
-🗣️ [03/29/2024] I presented "Deep5hmC: Predicting genome-wide 5-hydroxymethylcytosine landscape via a multimodal deep learning model" at ASA Florida Chapter 2024 in Tallahassee, FL.
+🎤  [03/29/2024] I presented "Deep5hmC: Predicting genome-wide 5-hydroxymethylcytosine landscape via a multimodal deep learning model" at ASA Florida Chapter 2024 in Tallahassee, FL.
 
-🗣️ [03/22/2024] I presented "Deep5hmC: Predicting genome-wide 5-hydroxymethylcytosine landscape via a multimodal deep learning model" at MCBIOS 2024 in Atlanta, GA.
+🎤  [03/22/2024] I presented "Deep5hmC: Predicting genome-wide 5-hydroxymethylcytosine landscape via a multimodal deep learning model" at MCBIOS 2024 in Atlanta, GA.
 
 🏅 [11/15/2023] I won the Mark C. K. Yang Student Presentation Award.
 
 🎓 [08/21/2023] I passed the written qualifying exam.
 
-🗣️ [07/16/2023] I presented "Spatial Metabolome Lipidome Glycome Analyses from a Single Tissue Section" at ICIBM 2023 in Tampa, FL.
+🎤  [07/16/2023] I presented "Spatial Metabolome Lipidome Glycome Analyses from a Single Tissue Section" at ICIBM 2023 in Tampa, FL.
