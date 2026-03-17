@@ -13,7 +13,9 @@ My research interests revolve around leveraging statistical learning and deep le
 
 🚀  News
 ------
-💼 [01/09/2026] I'm excited to share that I will be joining **Eli Lilly** as an AI Drug Discovery summer intern (2026) in Indianapolis, Indiana!
+🗣️ [03/16/2026] I presented "Reference-Informed Spatial Domain Detection Using Weak Supervision for Spatial Transcriptomics" and served as session chair for "Machine Learning and Causal Inference for Clinical and Genomic Studies"at the ENAR 2026 Spring Meeting in Indianapolis, IN.
+
+💼 [01/09/2026] I'm excited to share that I will be joining **Eli Lilly and Company** as an AI Drug Discovery summer intern (2026) in Indianapolis, Indiana!
 
 📄 [05/12/2025] _"Spatial mapping of the brain metabolome lipidome and glycome"_ is published in **Nature Communications** 🔗<https://doi.org/10.1038/s41467-025-59487-7>
 
