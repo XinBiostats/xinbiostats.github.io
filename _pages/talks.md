@@ -7,6 +7,9 @@ author_profile: true
 
 Oral Presentations
 ------
+March 2026, ENAR, Indianapolis, IN.<br>
+*Reference-Informed Spatial Domain Detection Using Weak Supervision for Spatial Transcriptomics*<br>
+
 Apr. 2024, College of Public Health and Health Professions (PHHP) Research Days, Gainesville, FL.<br>
 *Deep5hmC: Predicting genome-wide 5-Hydroxymethylcytosine (5hmC) landscape via multimodal deep learning model* <br>
 
