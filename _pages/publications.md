@@ -10,6 +10,11 @@ author_profile: true
 <h2>Peer-Reviewed Publications</h2>
 <ol>
   <li>
+    Ribas, R., Tang, Q., Caffee, S., et al., <strong>Ma, X.</strong>, Chen, L., Sun, R., et al.
+    <em>Mass Spectrometry-based Spatial Imaging of the Cochlea</em>.
+    <em>Journal of the American Society for Mass Spectrometry</em> (2026).
+  </li>
+  <li>
     Clarke, H.A.<sup>†</sup>, <strong>Ma, X.</strong><sup>†</sup>, Shedlock, C.J.<sup>†</sup>, et al.
     <em>Spatial mapping of the brain metabolome lipidome and glycome</em>.
     <em>Nature Communications</em>, 16, 4373 (2025).
@@ -42,11 +47,6 @@ author_profile: true
     Rodriguez-Palma, E., Gomez, K., Calderon-Rivera, A., et al., <strong>Ma, X.</strong>, et al.
     <em>A peptidomimetic inhibitor of moesin alleviates chronic pain by suppressing NaV1.7 and NaV1.8 channels</em>.
     <em>Science Translational Medicine</em> (under revision).
-  </li>
-  <li>
-    Ribas, R., Tang, Q., Caffee, S., et al., <strong>Ma, X.</strong>, Chen, L., Sun, R., et al.
-    <em>Mass Spectrometry-based Spatial Imaging of the Cochlea</em>.
-    <em>Journal of the American Society for Mass Spectrometry</em> (under revision).
   </li>
   <li>
     Guarnieri, J.W., Maghsoudi, Z., Kim, J., et al., <strong>Ma, X.</strong>, et al.
