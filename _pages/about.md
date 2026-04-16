@@ -21,15 +21,15 @@ My research interests revolve around leveraging statistical learning and deep le
 
 💼 [01/09/2026] I'm excited to share that I will be joining **Eli Lilly and Company** as an AI Drug Discovery summer intern (2026) in Indianapolis, Indiana!
 
-📄 [05/12/2025] _"Spatial mapping of the brain metabolome lipidome and glycome"_ is published in **Nature Communications** 🔗<https://doi.org/10.1038/s41467-025-59487-7>
+📄 [05/12/2025] My co-first author paper _"Spatial mapping of the brain metabolome lipidome and glycome"_ is published in **Nature Communications** 🔗<https://doi.org/10.1038/s41467-025-59487-7>
 
 🎤  [03/23/2025] I presented “A Semi-Supervised Multi-Modal Model for Domain Detection in Spatial Transcriptomics” at the ENAR 2025 Spring Meeting in New Orleans, LA.
 
-📄 [03/18/2025] _"AI-driven Framework to Map the Brain Metabolome in 3D"_ is published in **Nature Metabolism** 🔗<https://doi.org/10.1038/s42255-025-01242-9>.
+📄 [03/18/2025] My first author paper _"AI-driven Framework to Map the Brain Metabolome in 3D"_ is published in **Nature Metabolism** 🔗<https://doi.org/10.1038/s42255-025-01242-9>.
 
 📍 [02/25/2025] I attended Winter Conference on Brain Research 2025 in Lake Tahoe, CA.
 
-📄 [08/28/2024] _"Deep5hmC: Predicting genome-wide 5-hydroxymethylcytosine landscape via a multimodal deep learning model"_ is published in **Bioinformatics** 🔗<https://doi.org/10.1093/bioinformatics/btae528>.
+📄 [08/28/2024] My first author paper _"Deep5hmC: Predicting genome-wide 5-hydroxymethylcytosine landscape via a multimodal deep learning model"_ is published in **Bioinformatics** 🔗<https://doi.org/10.1093/bioinformatics/btae528>.
 
 🏅 [05/13/2024] I won the MCBIOS 2024 Travel Fellowship.
 
