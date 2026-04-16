@@ -13,6 +13,8 @@ My research interests revolve around leveraging statistical learning and deep le
 
 🚀  News
 ------
+🏅 [04/10/2026] I won the department PhD Student Travel Award for my presentation at the ENAR 2026.
+
 🎤 [03/16/2026] I presented "Reference-Informed Spatial Domain Detection Using Weak Supervision for Spatial Transcriptomics" and served as session chair for "Machine Learning and Causal Inference for Clinical and Genomic Studies"at the ENAR 2026 Spring Meeting in Indianapolis, IN.
 
 📰 [02/04/2026] Honorned to be featured by University of Florida PHHP and to share my story! 🔗<https://phhp.ufl.edu/2026/02/04/meet-the-students-of-phhp-xin-ma-ph-d-in-biostatistics/>
