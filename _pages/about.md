@@ -13,6 +13,8 @@ My research interests revolve around leveraging statistical learning and deep le
 
 🚀  News
 ------
+💼 [05/18/2026] I've officially started my summer internship as an **AI Discovery Data Science Intern** in Advanced Intelligence (AI) department at **Eli Lilly and Company** 
+
 🏅 [04/10/2026] I won the department PhD Student Travel Award for my presentation at the ENAR 2026.
 
 🎤 [03/16/2026] I presented "Reference-Informed Spatial Domain Detection Using Weak Supervision for Spatial Transcriptomics" and served as session chair for "Machine Learning and Causal Inference for Clinical and Genomic Studies"at the ENAR 2026 Spring Meeting in Indianapolis, IN.
