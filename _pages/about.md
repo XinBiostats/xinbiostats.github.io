@@ -13,6 +13,10 @@ My research interests revolve around leveraging statistical learning and deep le
 
 🚀  News
 ------
+📄 [06/09/2026] My first author paper _"Machine learning-based prediction of clinical outcomes in gliomas using glycomics features"_ is published in **Bioinformatics** 🔗<https://doi.org/10.34133/csbj.0153>.
+
+📄 [06/03/2026] My first author paper _"Reference-informed spatial domain detection using weak supervision for spatial transcriptomics"_ is published in **Genome Research** 🔗<https://doi.org/10.1101/gr.281260.125>
+
 💼 [05/18/2026] I've officially started my summer internship as an **AI Discovery Data Science Intern** in Advanced Intelligence (AI) department at **Eli Lilly and Company**. 
 
 🏅 [04/10/2026] I won the department PhD Student Travel Award for my presentation at the ENAR 2026.
