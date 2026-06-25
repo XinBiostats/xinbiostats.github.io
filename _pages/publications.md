@@ -101,4 +101,10 @@ Liu, Z.<sup>†</sup>, <strong>Ma, X.</strong><sup>†</sup>, Ribas, R., et al.
 <em>Cell</em> (under review).
 </li>
 
+<li>
+Medina, T., Qui&ntilde;ones, S., Liu, Z., et al., <strong>Ma, X.</strong>, et al.
+<em>A multi-organ spatial metabolomic atlas of exercising mice reveals neuronal Complex I as a convergent and sufficient axis for tau pathology reduction in PS19</em>.
+<em>Science</em> (under review).
+</li>
+
 </ol>
