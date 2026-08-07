@@ -13,7 +13,7 @@ My research interests revolve around leveraging statistical learning and deep le
 
 🚀  News
 ------
-💼[08/07/2026] After an amazing summer, I've concluded my internship as an AI Discovery Data Science Intern in the Advanced Intelligence (AI) department at Eli Lilly and Company — grateful for the projects, mentorship, and growth this experience brought.
+💼[08/07/2026] After an amazing summer, I've concluded my internship as an **AI Discovery Data Science Intern** in the Advanced Intelligence (AI) department at **Eli Lilly and Company** — grateful for the projects, mentorship, and growth this experience brought.
 
 📄 [06/09/2026] My first author paper _"Machine learning-based prediction of clinical outcomes in gliomas using glycomics features"_ is published in **Computational and Structural Biotechnology Journal** 🔗<https://doi.org/10.34133/csbj.0153>.
 
