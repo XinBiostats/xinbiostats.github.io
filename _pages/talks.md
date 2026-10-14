@@ -30,6 +30,11 @@ author_profile: true
 }
 @media (max-width: 37.5em) { #talkmap { height: 320px; } }
 
+/* mute the OSM basemap so the markers stay the loudest thing on it */
+#talkmap .leaflet-tile-pane {
+  filter: grayscale(0.85) brightness(1.06) contrast(0.92);
+}
+
 .talkmap-hint {
   font-size: 0.78em;
   color: #8c9196;
@@ -224,10 +229,9 @@ author_profile: true
 
   var map = L.map('talkmap', { scrollWheelZoom: false, zoomControl: true });
 
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-    subdomains: 'abcd',
-    maxZoom: 18
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    maxZoom: 19
   }).addTo(map);
 
   var pts = [];
