@@ -136,9 +136,13 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  # Was "google-universal" with an empty tracking_id: that loaded Google's legacy
+  # analytics.js on every page and recorded nothing. Off until the GA4 ID is in.
+  # To switch on: set provider to "google-analytics-4" and paste the G-XXXXXXXXXX id below.
+  provider               : false  # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
+    anonymize_ip         : true
 
 
 # Reading Files

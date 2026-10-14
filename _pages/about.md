@@ -1,6 +1,9 @@
 ---
 permalink: /
 title: "About Me"
+seo_title: "Xin Ma — Biostatistics Ph.D. Student, University of Florida"
+og_title: "Xin Ma — Biostatistics Ph.D. Student, University of Florida"
+description: "Ph.D. student in Biostatistics at the University of Florida. Spatial multi-omics, single-cell genomics, and deep learning."
 author_profile: true
 redirect_from: 
   - /about/

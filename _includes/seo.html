@@ -6,9 +6,14 @@
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
 
-{% if page.title %}
+{% comment %}page.seo_title / page.og_title let a page set the browser+search title
+and the social-card headline without changing the heading shown on the page.{% endcomment %}
+{% if page.seo_title %}
+  {% assign seo_title = page.seo_title %}
+{% elsif page.title %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
 {% endif %}
+{% assign social_title = page.og_title | default: page.title | default: site.title %}
 
 {% if seo_title %}
   {% assign seo_title = seo_title | markdownify | strip_html | strip_newlines | escape_once %}
@@ -41,7 +46,7 @@
 
 <meta property="og:locale" content="{{ site.locale | default: "en" }}">
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
+<meta property="og:title" content="{{ social_title | markdownify | strip_html | strip_newlines | escape_once }}">
 
 {% if seo_url %}
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
