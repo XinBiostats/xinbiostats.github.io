@@ -106,7 +106,7 @@ author_profile: true
   <li>
     <div class="talk-meta">March 2026 &middot; ENAR Spring Meeting &middot; Indianapolis, IN</div>
     <div class="talk-topic">Reference-Informed Spatial Domain Detection Using Weak Supervision for Spatial Transcriptomics</div>
-    <span class="talk-award">Session chair, &ldquo;Machine Learning and Causal Inference for Clinical and Genomic Studies&rdquo; &middot; Department PhD Student Travel Award</span>
+    <span class="talk-award">Session chair, &ldquo;Machine Learning and Causal Inference for Clinical and Genomic Studies&rdquo; &middot; Biostatistics PhD Student Travel Award</span>
   </li>
   <li>
     <div class="talk-meta">April 2024 &middot; PHHP Research Days &middot; Gainesville, FL</div>
@@ -123,7 +123,7 @@ author_profile: true
   </li>
   <li>
     <div class="talk-meta">July 2023 &middot; ICIBM &middot; Tampa, FL</div>
-    <div class="talk-topic">Integrated Spatial Multi-omics Analysis Based on MALDI Data</div>
+    <div class="talk-topic">Spatial mapping of the brain metabolome lipidome and glycome</div>
   </li>
 </ul>
 
@@ -131,8 +131,12 @@ author_profile: true
 
 <ul class="talk-list">
   <li>
-    <div class="talk-meta">March 2025 &middot; ENAR &middot; New Orleans, LA</div>
-    <div class="talk-topic">SemiGraphST: A Semi-Supervised Deep Learning Approach for Domain Detection in Spatial Transcriptomics</div>
+    <div class="talk-meta">March 2025 &middot; ENAR Spring Meeting &middot; New Orleans, LA</div>
+    <div class="talk-topic">Reference-informed spatial domain detection using weak supervision for spatial transcriptomics</div>
+  </li>
+  <li>
+    <div class="talk-meta">February 2025 &middot; Winter Conference on Brain Research (WCBR) &middot; Lake Tahoe, CA</div>
+    <div class="talk-topic">AI-driven framework to map the brain metabolome in three dimensions</div>
   </li>
   <li>
     <div class="talk-meta">March 2024 &middot; MCBIOS &middot; Atlanta, GA</div>
@@ -159,15 +163,23 @@ author_profile: true
       talks: [
         { date: 'March 2026', venue: 'ENAR Spring Meeting', kind: 'Oral',
           topic: 'Reference-Informed Spatial Domain Detection Using Weak Supervision for Spatial Transcriptomics',
-          award: 'Department PhD Student Travel Award' }
+          award: 'Biostatistics PhD Student Travel Award' }
       ]
     },
     {
       place: 'New Orleans, LA',
       lat: 29.9511, lng: -90.0715,
       talks: [
-        { date: 'March 2025', venue: 'ENAR', kind: 'Poster',
-          topic: 'SemiGraphST: A Semi-Supervised Deep Learning Approach for Domain Detection in Spatial Transcriptomics' }
+        { date: 'March 2025', venue: 'ENAR Spring Meeting', kind: 'Poster',
+          topic: 'Reference-informed spatial domain detection using weak supervision for spatial transcriptomics' }
+      ]
+    },
+    {
+      place: 'Lake Tahoe, CA',
+      lat: 39.0968, lng: -120.0324,
+      talks: [
+        { date: 'February 2025', venue: 'Winter Conference on Brain Research (WCBR)', kind: 'Poster',
+          topic: 'AI-driven framework to map the brain metabolome in three dimensions' }
       ]
     },
     {
@@ -205,7 +217,7 @@ author_profile: true
       lat: 27.9506, lng: -82.4572,
       talks: [
         { date: 'July 2023', venue: 'ICIBM', kind: 'Oral',
-          topic: 'Integrated Spatial Multi-omics Analysis Based on MALDI Data' }
+          topic: 'Spatial mapping of the brain metabolome lipidome and glycome' }
       ]
     }
   ];
