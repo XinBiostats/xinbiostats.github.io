@@ -53,20 +53,11 @@ author_profile: true
 .cv-viewer object,
 .cv-viewer iframe { display: block; width: 100%; height: 100%; border: 0; }
 
-/* shown only when the browser cannot display the PDF inline */
-.cv-fallback {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
-  padding: 2em 1.5em;
-  text-align: center;
-  color: #6b7177;
-  font-size: 0.9em;
-  line-height: 1.6;
+.cv-note {
+  font-size: 0.8em;
+  color: #8c9196;
+  margin: 0.5em 0 0;
 }
-.cv-fallback .cv-btn { margin-top: 0.9em; }
 </style>
 
 <div class="cv-bar">
@@ -75,10 +66,7 @@ author_profile: true
 </div>
 
 <div class="cv-viewer">
-  <object data="{{ '/files/cv.pdf' | relative_url }}" type="application/pdf" aria-label="Curriculum vitae of Xin Ma">
-    <div class="cv-fallback">
-      <div>Your browser can&rsquo;t display PDFs inline &mdash; this is common on mobile.</div>
-      <a class="cv-btn" href="{{ '/files/cv.pdf' | relative_url }}" target="_blank" rel="noopener">Open CV (PDF)</a>
-    </div>
-  </object>
+  <iframe src="{{ '/files/cv.pdf' | relative_url }}" title="Curriculum vitae of Xin Ma"></iframe>
 </div>
+
+<p class="cv-note">Nothing showing above? Some mobile browsers can&rsquo;t display PDFs inline &mdash; <a href="{{ '/files/cv.pdf' | relative_url }}" target="_blank" rel="noopener">open the CV directly</a>.</p>

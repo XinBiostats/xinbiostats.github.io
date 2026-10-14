@@ -15,38 +15,38 @@ author_profile: true
   padding-bottom: 0.4em;
   margin: 2em 0 1em;
 }
-.pub-h-row {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 1em;
-  border-bottom: 1px solid #e6e8ea;
-  padding-bottom: 0.4em;
-  margin: 0.5em 0 1.2em;
-}
-.pub-h-row .pub-h {
-  border: 0;
-  padding: 0;
-  margin: 0;
-}
-
 /* ---- Selected publications: sliding cards ---- */
-.fpub-nav { display: flex; gap: 0.4em; flex: 0 0 auto; }
-.fpub-nav button {
-  width: 2em;
-  height: 2em;
-  padding: 0;
+.fpub-carousel { position: relative; }
+
+.fpub-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 3;
+  width: 2.4em;
+  height: 2.4em;
+  padding: 0 0 0.12em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   border: 1px solid #dfe2e4;
   border-radius: 50%;
   background: #fff;
-  color: #6b7177;
-  font-size: 1em;
+  color: #5b6166;
+  font-size: 1.2em;
   line-height: 1;
   cursor: pointer;
-  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  box-shadow: 0 2px 10px rgba(30, 40, 50, 0.17);
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease, opacity 0.15s ease;
 }
-.fpub-nav button:hover:not(:disabled) { background: #52adc8; border-color: #52adc8; color: #fff; }
-.fpub-nav button:disabled { opacity: 0.35; cursor: default; }
+.fpub-arrow--prev { left: -14px; }
+.fpub-arrow--next { right: -14px; }
+@media (max-width: 64em) {
+  .fpub-arrow--prev { left: 6px; }
+  .fpub-arrow--next { right: 6px; }
+}
+.fpub-arrow:hover:not(:disabled) { background: #52adc8; border-color: #52adc8; color: #fff; }
+.fpub-arrow:disabled { opacity: 0; pointer-events: none; }
 
 .fpub-track {
   display: flex;
@@ -139,13 +139,12 @@ author_profile: true
 .pub-list li { margin-bottom: 0.85em; line-height: 1.5; }
 </style>
 
-<div class="pub-h-row">
-  <h2 class="pub-h">Selected Publications</h2>
-  <div class="fpub-nav">
-    <button type="button" id="fpubPrev" aria-label="Previous publications">&#8592;</button>
-    <button type="button" id="fpubNext" aria-label="Next publications">&#8594;</button>
-  </div>
-</div>
+<h2 class="pub-h">Selected Publications</h2>
+
+<div class="fpub-carousel">
+
+<button type="button" class="fpub-arrow fpub-arrow--prev" id="fpubPrev" aria-label="Previous publications">&#8249;</button>
+<button type="button" class="fpub-arrow fpub-arrow--next" id="fpubNext" aria-label="Next publications">&#8250;</button>
 
 <div class="fpub-track" id="fpubTrack">
 
@@ -195,6 +194,8 @@ author_profile: true
 
 </div>
 
+</div>
+
 <script>
 (function () {
   var track = document.getElementById('fpubTrack');
@@ -216,7 +217,8 @@ author_profile: true
     prev.disabled = atStart;
     next.disabled = atEnd;
     var hide = max <= 1;
-    prev.parentNode.style.visibility = hide ? 'hidden' : 'visible';
+    prev.style.display = hide ? 'none' : '';
+    next.style.display = hide ? 'none' : '';
   }
 
   prev.addEventListener('click', function () { track.scrollBy({ left: -step(), behavior: 'smooth' }); });

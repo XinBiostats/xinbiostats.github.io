@@ -146,7 +146,7 @@ author_profile: true
   var el = document.getElementById('talkmap');
   if (!el || typeof L === 'undefined') return;
 
-  // One entry per city; talks[] lists everything presented there.
+  /* One entry per city; talks[] lists everything presented there. */
   var PLACES = [
     {
       place: 'Indianapolis, IN',
