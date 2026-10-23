@@ -163,7 +163,7 @@ author_profile: true
     <img src="{{ '/images/publications/featured-nature-communications-2025.png' | relative_url }}" alt="Figure 2 from the Sami framework paper" loading="lazy">
     <div class="fpub__body">
       <div class="fpub__venue">Nature Communications &middot; 2025</div>
-      <h3 class="fpub__title">Spatial mapping of the brain metabolome, lipidome and glycome</h3>
+      <h3 class="fpub__title">Spatial mapping of the brain metabolome lipidome and glycome</h3>
       <p class="fpub__authors">Clarke, H.A.<sup>&dagger;</sup>, <strong>Ma, X.</strong><sup>&dagger;</sup>, Shedlock, C.J.<sup>&dagger;</sup>, et al.</p>
       <p class="fpub__blurb">Metabolites, lipids and glycans resolved from a single tissue section and assembled into one spatial multi-omics atlas of the brain.</p>
       <span class="fpub__cta">View paper &rarr;</span>
@@ -175,7 +175,7 @@ author_profile: true
     <div class="fpub__body">
       <div class="fpub__venue">Nature Metabolism &middot; 2025</div>
       <h3 class="fpub__title">AI-driven framework to map the brain metabolome in three dimensions</h3>
-      <p class="fpub__authors"><strong>Ma, X.</strong><sup>&dagger;</sup>, Shedlock, C.J.<sup>&dagger;</sup>, Medina, T.<sup>&dagger;</sup>, et al.</p>
+      <p class="fpub__authors"><strong>Ma, X.</strong><sup>&dagger;</sup>, Shedlock, C.J.<sup>&dagger;</sup>, Medina, T.<sup>&dagger;</sup>, Ribas, R.A.<sup>&dagger;</sup>, et al.</p>
       <p class="fpub__blurb">A deep learning pipeline that reconstructs the brain metabolome in three dimensions from serial mass spectrometry imaging sections.</p>
       <span class="fpub__cta">View paper &rarr;</span>
     </div>
@@ -237,27 +237,27 @@ author_profile: true
 <ol class="pub-list">
 
 <li>
-<strong>Ma, X.</strong>, Allison, D., Macedo, J.K.A., et al.
-<em>Machine learning-based prediction of clinical outcomes in glioblastoma using glycomics features</em>.
+<strong>Ma, X.</strong>, Allison, D.B., Macedo, J.K.A., et al.
+<em>Machine-learning-based prediction of clinical outcomes in gliomas using glycomic features</em>.
 <em>Computational and Structural Biotechnology Journal</em> (2026).
 </li>
 
 <li>
-<strong>Ma, X.</strong>, Jin, W., Lu, Q., et al.
-<em>Reference-Informed Detection of Spatial Domains Using Weak Supervision for Spatial Transcriptomics</em>.
-<em>Genome Research</em> (2026).
+<strong>Ma, X.</strong>, Jin, W., Lu, Q., Sun, R.C., and Chen, L.
+<em>Reference-informed spatial domain detection using weak supervision for spatial transcriptomics</em>.
+<em>Genome Research</em>, 36(7), 1466&ndash;1482 (2026).
 </li>
 
 <li>
-Hawkinson, T.R., Liu, Z., Ribas, R.A., et al., <strong>Ma, X.</strong>, et al.
-<em>Hyperglycosylation is a metabolic driver of Alzheimer's disease</em>.
-<em>Nature Metabolism</em> (2026).
+Hawkinson, T.R.<sup>&dagger;</sup>, Liu, Z.<sup>&dagger;</sup>, Ribas, R.A., et al., <strong>Ma, X.</strong>, et al.
+<em>Hyperglycosylation is a metabolic driver of Alzheimer&rsquo;s disease</em>.
+<em>Nature Metabolism</em>, 8, 1410&ndash;1425 (2026).
 </li>
 
 <li>
-Ribas, R., Tang, Q., Caffee, S., et al., <strong>Ma, X.</strong>, Chen, L., Sun, R., et al.
-<em>Mass Spectrometry-based Spatial Imaging of the Cochlea</em>.
-<em>Journal of the American Society for Mass Spectrometry</em> (2026).
+Ribas, R.A., Tang, Q., Caffee, S.I., et al., <strong>Ma, X.</strong>, et al.
+<em>Mass spectrometry-based spatial imaging of the cochlea</em>.
+<em>Journal of the American Society for Mass Spectrometry</em>, 37(5), 1187&ndash;1195 (2026).
 </li>
 
 <li>
@@ -267,15 +267,15 @@ Clarke, H.A.<sup>&dagger;</sup>, <strong>Ma, X.</strong><sup>&dagger;</sup>, She
 </li>
 
 <li>
-<strong>Ma, X.</strong><sup>&dagger;</sup>, Shedlock, C.J.<sup>&dagger;</sup>, Medina, T.<sup>&dagger;</sup>, et al.
+<strong>Ma, X.</strong><sup>&dagger;</sup>, Shedlock, C.J.<sup>&dagger;</sup>, Medina, T.<sup>&dagger;</sup>, Ribas, R.A.<sup>&dagger;</sup>, et al.
 <em>AI-driven framework to map the brain metabolome in three dimensions</em>.
-<em>Nature Metabolism</em> (2025).
+<em>Nature Metabolism</em>, 7, 842&ndash;853 (2025).
 </li>
 
 <li>
-Clarke, H.A., Hawkinson, T.R., Clarke, H., et al., <strong>Ma, X.</strong>, et al.
+Clarke, H.A.<sup>&dagger;</sup>, Hawkinson, T.R.<sup>&dagger;</sup>, Shedlock, C.J., et al., <strong>Ma, X.</strong>, et al.
 <em>Glycogen drives tumour initiation and progression in lung adenocarcinoma</em>.
-<em>Nature Metabolism</em> (2025).
+<em>Nature Metabolism</em>, 7, 952&ndash;965 (2025).
 </li>
 
 <li>
@@ -285,8 +285,8 @@ Clarke, H.A., Hawkinson, T.R., Clarke, H., et al., <strong>Ma, X.</strong>, et a
 </li>
 
 <li>
-Zhao, F., <strong>Ma, X.</strong>, Yao, B., et al.
-<em>Scada: A novel statistical method for differential analysis of single-cell chromatin accessibility sequencing data</em>.
+Zhao, F., <strong>Ma, X.</strong>, Yao, B., Lu, Q., and Chen, L.
+<em>scaDA: A novel statistical method for differential analysis of single-cell chromatin accessibility sequencing data</em>.
 <em>PLOS Computational Biology</em>, 20(8) (2024).
 </li>
 
@@ -297,39 +297,33 @@ Zhao, F., <strong>Ma, X.</strong>, Yao, B., et al.
 <ol class="pub-list">
 
 <li>
-Rodriguez-Palma, E., Gomez, K., Calderon-Rivera, A., et al., <strong>Ma, X.</strong>, et al.
+Rodriguez-Palma, E., Gomez, K., Calderon-Rivera, A., et al., including <strong>Ma, X.</strong>
 <em>A peptidomimetic inhibitor of moesin alleviates chronic pain by suppressing NaV1.7 and NaV1.8 channels</em>.
 <em>Science Translational Medicine</em> (under revision).
 </li>
 
 <li>
-Guarnieri, J.W., Maghsoudi, Z., Kim, J., et al., <strong>Ma, X.</strong>, et al.
-<em>Guardians of the Mitochondria: Space Mitochondria 2.0 Systemic Analysis Reveals Bioenergetic Dysregulation Across Species</em>.
+Guarnieri, J.W., Maghsoudi, Z., Kim, J., et al., including <strong>Ma, X.</strong>
+<em>Guardians of the mitochondria: Space Mitochondria 2.0 systemic analysis reveals bioenergetic dysregulation across species</em>.
+<em>Cell Press Blue</em> (under revision).
+</li>
+
+<li>
+Jin, W., Zhao, F., <strong>Ma, X.</strong>, Lu, Q., et al.
+<em>DeepCNet: A multimodal deep learning model for predicting cell type-specific gene expression and promoter-enhancer interactions from single-cell multiome data</em>.
+<em>Nature Communications</em> (under revision).
+</li>
+
+<li>
+Liu, Z.<sup>&dagger;</sup>, <strong>Ma, X.</strong><sup>&dagger;</sup>, Ribas, R.A., et al.
+<em>Metabolic coherence of the mouse brain</em>.
 <em>Cell</em> (under revision).
-</li>
-
-</ol>
-
-<h2 class="pub-h">Manuscripts Under Review</h2>
-
-<ol class="pub-list">
-
-<li>
-Jin, W., Zhao, F., <strong>Ma, X.</strong>, et al.
-<em>DeepCNet: An interpretable deep learning model for inferring cell type-specific promoter-enhancer interactions from single-cell multiome data</em>.
-<em>Nature Communications</em> (under review).
-</li>
-
-<li>
-Liu, Z.<sup>&dagger;</sup>, <strong>Ma, X.</strong><sup>&dagger;</sup>, Ribas, R., et al.
-<em>Metabolic Coherence of the Mouse Brain</em>.
-<em>Cell</em> (under review).
 </li>
 
 <li>
 Medina, T., Qui&ntilde;ones, S., Liu, Z., et al., <strong>Ma, X.</strong>, et al.
 <em>A multi-organ spatial metabolomic atlas of exercising mice reveals neuronal Complex I as a convergent and sufficient axis for tau pathology reduction in PS19</em>.
-<em>Science</em> (under review).
+<em>Science</em> (under revision).
 </li>
 
 </ol>

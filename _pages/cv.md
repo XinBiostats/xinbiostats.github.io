@@ -61,7 +61,7 @@ author_profile: true
 </style>
 
 <div class="cv-bar">
-  <span class="cv-bar__note">Last updated September 2026 &middot; 5 pages</span>
+  <span class="cv-bar__note">Last updated October 2026 &middot; 5 pages</span>
   <a class="cv-btn" href="{{ '/files/cv.pdf' | relative_url }}" target="_blank" rel="noopener">Download PDF</a>
 </div>
 

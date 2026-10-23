@@ -104,6 +104,10 @@ author_profile: true
 
 <ul class="talk-list">
   <li>
+    <div class="talk-meta">October 2026 &middot; UF AI Days &middot; Gainesville, FL</div>
+    <div class="talk-topic">From 2D to 3D: AI-Driven Mapping of Brain Metabolism and Its Implications for Alzheimer&rsquo;s Disease</div>
+  </li>
+  <li>
     <div class="talk-meta">March 2026 &middot; ENAR Spring Meeting &middot; Indianapolis, IN</div>
     <div class="talk-topic">Reference-Informed Spatial Domain Detection Using Weak Supervision for Spatial Transcriptomics</div>
     <span class="talk-award">Session chair, &ldquo;Machine Learning and Causal Inference for Clinical and Genomic Studies&rdquo; &middot; Biostatistics PhD Student Travel Award</span>
@@ -186,6 +190,8 @@ author_profile: true
       place: 'Gainesville, FL',
       lat: 29.6516, lng: -82.3248,
       talks: [
+        { date: 'October 2026', venue: 'UF AI Days', kind: 'Oral',
+          topic: 'From 2D to 3D: AI-Driven Mapping of Brain Metabolism and Its Implications for Alzheimer’s Disease' },
         { date: 'April 2024', venue: 'PHHP Research Days', kind: 'Oral',
           topic: 'Deep5hmC: Predicting genome-wide 5hmC landscape via multimodal deep learning model' },
         { date: 'November 2023', venue: 'Florida Genetics Symposium', kind: 'Poster',

@@ -63,21 +63,22 @@ My research interests revolve around leveraging statistical learning and deep le
 <h2 class="news-h">&#128640; News</h2>
 
 <div class="news">
+<div class="news-item"><div class="news-date">Oct 2026</div><div class="news-body">&#127908; I presented <em>"From 2D to 3D: AI-Driven Mapping of Brain Metabolism and Its Implications for Alzheimer’s Disease"</em> at <strong>UF AI Days</strong> in Gainesville, FL.</div></div>
 <div class="news-item"><div class="news-date">Aug 2026</div><div class="news-body">&#128188; After an amazing summer, I've concluded my internship as an <strong>AI Discovery Data Science Intern</strong> in the Advanced Intelligence (AI) department at <strong>Eli Lilly and Company</strong> &mdash; grateful for the projects, mentorship, and growth this experience brought.</div></div>
-<div class="news-item"><div class="news-date">Jun 2026</div><div class="news-body">&#128196; My first author paper <em>"Machine learning-based prediction of clinical outcomes in gliomas using glycomics features"</em> is published in <strong>Computational and Structural Biotechnology Journal</strong>. <a href="https://doi.org/10.34133/csbj.0153" target="_blank" rel="noopener">DOI</a></div></div>
+<div class="news-item"><div class="news-date">Jun 2026</div><div class="news-body">&#128196; My first author paper <em>"Machine-learning-based prediction of clinical outcomes in gliomas using glycomic features"</em> is published in <strong>Computational and Structural Biotechnology Journal</strong>. <a href="https://doi.org/10.34133/csbj.0153" target="_blank" rel="noopener">DOI</a></div></div>
 <div class="news-item"><div class="news-date">Jun 2026</div><div class="news-body">&#128196; My first author paper <em>"Reference-informed spatial domain detection using weak supervision for spatial transcriptomics"</em> is published in <strong>Genome Research</strong>. <a href="https://doi.org/10.1101/gr.281260.125" target="_blank" rel="noopener">DOI</a></div></div>
 <div class="news-item"><div class="news-date">May 2026</div><div class="news-body">&#128188; I've officially started my summer internship as an <strong>AI Discovery Data Science Intern</strong> in the Advanced Intelligence (AI) department at <strong>Eli Lilly and Company</strong>.</div></div>
-<div class="news-item"><div class="news-date">Apr 2026</div><div class="news-body">&#127941; I won the department PhD Student Travel Award for my presentation at ENAR 2026.</div></div>
-<div class="news-item"><div class="news-date">Mar 2026</div><div class="news-body">&#127908; I presented <em>"Reference-Informed Spatial Domain Detection Using Weak Supervision for Spatial Transcriptomics"</em> and served as session chair for <em>"Machine Learning and Causal Inference for Clinical and Genomic Studies"</em> at the ENAR 2026 Spring Meeting in Indianapolis, IN.</div></div>
+<div class="news-item"><div class="news-date">Apr 2026</div><div class="news-body">&#127941; I won the Biostatistics PhD Student Travel Award for my presentation at ENAR 2026.</div></div>
 </div>
 
 <details class="news-more">
 <summary>Earlier news</summary>
 <div class="news">
+<div class="news-item"><div class="news-date">Mar 2026</div><div class="news-body">&#127908; I presented <em>"Reference-Informed Spatial Domain Detection Using Weak Supervision for Spatial Transcriptomics"</em> and served as session chair for <em>"Machine Learning and Causal Inference for Clinical and Genomic Studies"</em> at the ENAR 2026 Spring Meeting in Indianapolis, IN.</div></div>
 <div class="news-item"><div class="news-date">Feb 2026</div><div class="news-body">&#128240; Honored to be featured by University of Florida PHHP and to share my story. <a href="https://phhp.ufl.edu/2026/02/04/meet-the-students-of-phhp-xin-ma-ph-d-in-biostatistics/" target="_blank" rel="noopener">Read it</a></div></div>
 <div class="news-item"><div class="news-date">Jan 2026</div><div class="news-body">&#128188; I'm excited to share that I will be joining <strong>Eli Lilly and Company</strong> as an AI Drug Discovery summer intern (2026) in Indianapolis, Indiana.</div></div>
 <div class="news-item"><div class="news-date">May 2025</div><div class="news-body">&#128196; My co-first author paper <em>"Spatial mapping of the brain metabolome lipidome and glycome"</em> is published in <strong>Nature Communications</strong>. <a href="https://doi.org/10.1038/s41467-025-59487-7" target="_blank" rel="noopener">DOI</a></div></div>
-<div class="news-item"><div class="news-date">Mar 2025</div><div class="news-body">&#127908; I presented <em>"A Semi-Supervised Multi-Modal Model for Domain Detection in Spatial Transcriptomics"</em> at the ENAR 2025 Spring Meeting in New Orleans, LA.</div></div>
+<div class="news-item"><div class="news-date">Mar 2025</div><div class="news-body">&#127908; I presented <em>"Reference-informed spatial domain detection using weak supervision for spatial transcriptomics"</em> at the ENAR 2025 Spring Meeting in New Orleans, LA.</div></div>
 <div class="news-item"><div class="news-date">Mar 2025</div><div class="news-body">&#128196; My first author paper <em>"AI-driven Framework to Map the Brain Metabolome in 3D"</em> is published in <strong>Nature Metabolism</strong>. <a href="https://doi.org/10.1038/s42255-025-01242-9" target="_blank" rel="noopener">DOI</a></div></div>
 <div class="news-item"><div class="news-date">Feb 2025</div><div class="news-body">&#128205; I attended the Winter Conference on Brain Research 2025 in Lake Tahoe, CA.</div></div>
 <div class="news-item"><div class="news-date">Aug 2024</div><div class="news-body">&#128196; My first author paper <em>"Deep5hmC: Predicting genome-wide 5-hydroxymethylcytosine landscape via a multimodal deep learning model"</em> is published in <strong>Bioinformatics</strong>. <a href="https://doi.org/10.1093/bioinformatics/btae528" target="_blank" rel="noopener">DOI</a></div></div>
@@ -86,6 +87,6 @@ My research interests revolve around leveraging statistical learning and deep le
 <div class="news-item"><div class="news-date">Mar 2024</div><div class="news-body">&#127908; I presented <em>"Deep5hmC"</em> at MCBIOS 2024 in Atlanta, GA.</div></div>
 <div class="news-item"><div class="news-date">Nov 2023</div><div class="news-body">&#127941; I won the Mark C. K. Yang Student Presentation Award.</div></div>
 <div class="news-item"><div class="news-date">Aug 2023</div><div class="news-body">&#127891; I passed the written qualifying exam.</div></div>
-<div class="news-item"><div class="news-date">Jul 2023</div><div class="news-body">&#127908; I presented <em>"Spatial Metabolome Lipidome Glycome Analyses from a Single Tissue Section"</em> at ICIBM 2023 in Tampa, FL.</div></div>
+<div class="news-item"><div class="news-date">Jul 2023</div><div class="news-body">&#127908; I presented <em>"Spatial mapping of the brain metabolome lipidome and glycome"</em> at ICIBM 2023 in Tampa, FL.</div></div>
 </div>
 </details>
